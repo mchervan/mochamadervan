@@ -1,6 +1,6 @@
 # Hi, I'm Mochamad Ervan 👋
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mochamad-ervan](https://www.linkedin.com/in/mochamad-ervan-248172226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mochamad-ervan-248172226)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mchervan@vancraftstudio.onmicrosoft.com)
 [![Location](https://img.shields.io/badge/Location-Madiun,%20Indonesia-2E8B57?style=for-the-badge)](https://www.google.com/maps/place/Madiun)
 
