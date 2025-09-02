@@ -57,7 +57,7 @@ Saya selalu terbuka untuk berdiskusi tentang project baru, ide kreatif, atau pel
 
 - **📍 Location:** Madiun, Indonesia
 - **📧 Email:** [mchervan@vancraftstudio.onmicrosoft.com](mailto:mchervan@vancraftstudio.onmicrosoft.com)
-- **💼 LinkedIn:** [Mochamad Ervan](https://www.linkedin.com/in/mochamad-ervan)
+- **💼 LinkedIn:** [Mochamad Ervan]([https://www.linkedin.com/in/mochamad-ervan](https://www.linkedin.com/in/mochamad-ervan-248172226))
 - **👨💻 GitHub:** [mchervan](https://github.com/mchervan)
 
 ---
