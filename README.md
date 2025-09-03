@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mchervan@vancraftstudio.onmicrosoft.com)
 [![Lokasi](https://img.shields.io/badge/Lokasi-Madiun,%20Indonesia-2E8B57?style=for-the-badge)](https://www.google.com/maps/place/Madiun)
 
-**Laravel Developer** | Membangun Solusi Web untuk UMKM | Kontributor Open-Source
+**Laravel Developer** | Membangun Solusi Web untuk UMKM | Open-Source Contributor
 
 Saya adalah seorang Developer Laravel yang berfokus pada pembuatan aplikasi web untuk membantu Usaha Mikro, Kecil, dan Menengah (UMKM) berkembang secara digital. Passionate dalam menciptakan solusi teknologi yang impactful, efisien, dan user-friendly.
 
