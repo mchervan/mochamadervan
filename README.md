@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mchervan@vancraftstudio.onmicrosoft.com)
 [![Lokasi](https://img.shields.io/badge/Lokasi-Madiun,%20Indonesia-2E8B57?style=for-the-badge)](https://www.google.com/maps/place/Madiun)
 
-**Laravel Developer** | Membangun Solusi Web untuk UMKM | Open-Source Contributor
+**Laravel Developer** | Membangun Solusi Web untuk UMKM | Kontributor Open-Source
 
 Saya adalah seorang Developer Laravel yang berfokus pada pembuatan aplikasi web untuk membantu Usaha Mikro, Kecil, dan Menengah (UMKM) berkembang secara digital. Passionate dalam menciptakan solusi teknologi yang impactful, efisien, dan user-friendly.
 
@@ -25,8 +25,8 @@ Saya adalah seorang Developer Laravel yang berfokus pada pembuatan aplikasi web 
 
 ## 🚀 Project Unggulan
 
-### 1. Launchy App - Dashboard Manajemen Bisnis
-[[![Repositori GitHub](https://img.shields.io/badge/Lihat_Repositori-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mchervan/launchy-express)](https://github.com/mchervan/laundry-app.git)
+### 1. Launchy Express - Dashboard Manajemen Bisnis
+[![Repositori GitHub](https://img.shields.io/badge/Lihat_Repositori-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mchervan/laundry-app.git)
 
 Dashboard komprehensif berbasis Laravel untuk membantu UMKM mengelola transaksi, melacak piutang, dan menghasilkan laporan keuangan secara real-time.
 
@@ -65,7 +65,7 @@ Saya selalu terbuka untuk berdiskusi tentang project baru, ide kreatif, atau pel
 
 - **📍 Lokasi:** Madiun, Indonesia
 - **📧 Email:** [mchervan@vancraftstudio.onmicrosoft.com](mailto:mchervan@vancraftstudio.onmicrosoft.com)
-- **💼 LinkedIn:** [Mochamad Ervan](https://www.linkedin.com/in/mochamad-ervan)
+- **💼 LinkedIn:** [Mochamad Ervan](linkedin.com/in/mochamad-ervan-248172226)
 - **👨💻 GitHub:** [mchervan](https://github.com/mchervan)
 
 ---
