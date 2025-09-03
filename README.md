@@ -25,8 +25,8 @@ Saya adalah seorang Developer Laravel yang berfokus pada pembuatan aplikasi web 
 
 ## 🚀 Project Unggulan
 
-### 1. Launchy Express - Dashboard Manajemen Bisnis
-[![Repositori GitHub](https://img.shields.io/badge/Lihat_Repositori-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mchervan/launchy-express)
+### 1. Launchy App - Dashboard Manajemen Bisnis
+[[![Repositori GitHub](https://img.shields.io/badge/Lihat_Repositori-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mchervan/launchy-express)](https://github.com/mchervan/laundry-app.git)
 
 Dashboard komprehensif berbasis Laravel untuk membantu UMKM mengelola transaksi, melacak piutang, dan menghasilkan laporan keuangan secara real-time.
 
@@ -38,31 +38,7 @@ Dashboard komprehensif berbasis Laravel untuk membantu UMKM mengelola transaksi,
 - Dashboard laporan real-time
 - Autentikasi dan otorisasi pengguna
 
-### 2. Sistem Manajemen Inventori
-[![Repositori GitHub](https://img.shields.io/badge/Lihat_Repositori-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mchervan/inventory-management)
 
-Sistem manajemen inventori dengan fitur reporting dan autentikasi multi-user yang dirancang untuk usaha kecil.
-
-**Tech Stack:** Laravel, MySQL, Bootstrap, JavaScript
-
-**Fitur Utama:**
-- Manajemen produk dan stok
-- Sistem peran multi-user
-- Laporan penjualan dan pembelian
-- Manajemen supplier dan pelanggan
-
-### 3. Platform E-Commerce untuk UMKM
-[![Repositori GitHub](https://img.shields.io/badge/Lihat_Repositori-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mchervan/sme-ecommerce)
-
-Solusi e-commerce lengkap yang disesuaikan untuk usaha kecil dan menengah dengan pemrosesan pembayaran terintegrasi.
-
-**Tech Stack:** Laravel, MySQL, JavaScript, Bootstrap, Payment Gateway API
-
-**Fitur Utama:**
-- Katalog produk dan keranjang belanja
-- Sistem manajemen pesanan
-- Integrasi gateway pembayaran
-- Portal manajemen pelanggan
 
 ---
 
